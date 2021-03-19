@@ -18,9 +18,11 @@ I am a husband to a wonderful wife and a father to two young boys. I love
 spending time with my family and seeing the world through my kids' eyes.
 
 ## 🧠 I'm a thinker
-Here are posts in the form of a mini-blog. Basically this is a
-place for me to conjecture, rant, reflect, inspect and pontificate.
+Here are a few of my latest posts in the form of a mini-blog. Basically this is
+a place for me to conjecture, rant, reflect, inspect and pontificate.
 [[z:zettels?tag=blog&timeline]]
+
+for my entire blog go to [[34bf05e7]]#
 
 ## 🎮 I'm a hobbyist
 Here are a few of my interests. I collect notes here as I learn more about these

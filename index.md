@@ -15,11 +15,11 @@ highly-flexible systems to solve the biggest problems in autonomy and robotics.
 ## 👨‍👩‍👦‍👦 I'm a family man
 
 I am a husband to a wonderful wife and a father to two young boys. I love
-spending time with my family and seeing the world through my kids eyes.
+spending time with my family and seeing the world through my kids' eyes.
 
 ## 🧠 I'm a thinker
-Here are posts in the form of a mini-blog and life updates. Basically this is a
-place for me to conjecture, rant, reflect and pontificate.
+Here are posts in the form of a mini-blog. Basically this is a
+place for me to conjecture, rant, reflect, inspect and pontificate.
 [[z:zettels?tag=blog&timeline]]
 
 ## 🎮 I'm a hobbyist

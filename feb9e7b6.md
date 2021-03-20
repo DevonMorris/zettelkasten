@@ -6,7 +6,5 @@ tags:
 
 # Tag - Zettelkasten
 
-Yeah this is super _meta_ that I'm writing notes about writing notes.
-
 Here are my notes about Zettelkasten
 [[z:zettels?tag=zet]]#

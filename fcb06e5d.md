@@ -1,7 +1,7 @@
 ---
-slug: neovim
 tags:
   - hub
 ---
 
-# Neovim
+# Tag - Neovim
+[[z:zettels?tag=nvim]]#

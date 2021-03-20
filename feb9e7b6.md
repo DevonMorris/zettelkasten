@@ -4,11 +4,9 @@ tags:
   - hub
 ---
 
-# Zettelkasten
+# Tag - Zettelkasten
 
-Yeah this is super _meta_ that I'm writing notes about writing notes. But,
-I'm enjoying exploring the connections of this process to [[bb895c22]],
-[[da8692ee]], and [[1b538dd2]].
+Yeah this is super _meta_ that I'm writing notes about writing notes.
 
 Here are my notes about Zettelkasten
 [[z:zettels?tag=zet]]#

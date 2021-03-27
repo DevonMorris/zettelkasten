@@ -31,7 +31,7 @@ plate to remind me to no use too much.
 
 For each switch, I perform the following steps
 1. Open up the switch.
-2. With a pin size amount amount of lube, lube one end of the spring
+2. With a pin[^pin] size amount amount of lube, lube one end of the spring
 3. Put the spring on the switch and lube the other end of the spring
 4. Grab the stem of the switch with the 4 pronged grabber
 5. Distribute a half-pin sized amount of lube between the two slotted sides of the stem
@@ -45,3 +45,4 @@ lubing process, but after lubing they incredible. I'm really pleased with how
 they feel and am excited to put them on the PCB soon.
 
 [^new]: [[01b18013]]
+[^pin]: By pin, I mean one the size of one of contacts on the bottom of the switch.

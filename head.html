@@ -27,6 +27,33 @@
       object-fit: cover;
     }
 
+    img[alt*="wide"] {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 600px;
+      height: 400px;
+      object-fit: cover;
+    }
+
+    img[alt*="tall"] {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 400px;
+      height: 600px;
+      object-fit: cover;
+    }
+
+    img[alt*="square"] {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 400px;
+      height: 400px;
+      object-fit: cover;
+    }
+
     /* Relax width constraint a bit */
     #zettel-container {
         max-width: 100% !important;

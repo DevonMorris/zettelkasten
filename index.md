@@ -20,7 +20,7 @@ spending time with my family and seeing the world through my kids' eyes.
 ## 🧠 I'm a thinker
 Here are a few of my latest posts[^zet] in the form of a mini-blog. Basically this is
 a place for me to conjecture, rant, reflect, inspect and pontificate.
-[[z:zettels?tag=blog&timeline]]
+[[z:zettels?tag=blog&limit=5&timeline]]
 
 for my entire blog go to [[34bf05e7]]#
 

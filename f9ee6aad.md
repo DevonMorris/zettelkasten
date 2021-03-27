@@ -45,4 +45,4 @@ lubing process, but after lubing they incredible. I'm really pleased with how
 they feel and am excited to put them on the PCB soon.
 
 [^new]: [[01b18013]]
-[^pin]: By pin, I mean one the size of one of contacts on the bottom of the switch.
+[^pin]: By pin, I mean the size of one of contacts on the bottom of the switch.

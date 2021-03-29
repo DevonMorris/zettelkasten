@@ -1,0 +1,18 @@
+path.link {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1px;
+  stroke-dasharray: 5;
+}
+
+circle {
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+text {
+  fill: #000;
+  font: 12px sans-serif;
+  font-weight: 500;
+  pointer-events: none;
+}

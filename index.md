@@ -24,6 +24,8 @@ a place for me to conjecture, rant, reflect, inspect and pontificate.
 
 for my entire blog go to [[34bf05e7]]#
 
+Here is a [graphical view](./static/graph.html) of my zettelkasten.
+
 ## 🎮 I'm a hobbyist
 Here are a few of my interests. I collect notes here as I learn more about these
 topics.

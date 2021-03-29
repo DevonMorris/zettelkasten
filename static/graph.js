@@ -48,8 +48,11 @@ d3.json("../cache.json", function (d) {
     ])
     .range(["#ffffff", "#cc3d3d"]);
 
-  var width = 1800,
-    height = 1000;
+
+  var pandocDiv = document.getElementsByClassName("pandoc")[0];
+
+  var width = pandocDiv.clientWidth;
+  var height = 800;
 
   var force = d3
     .forceSimulation()
@@ -62,11 +65,26 @@ d3.json("../cache.json", function (d) {
     .alphaTarget(1)
     .on("tick", tick);
 
+
   var svg = d3
-    .select("body")
-    .append("svg")
+    .select(".pandoc")
+    .insert("svg", ":nth-child(3)")
     .attr("width", width)
     .attr("height", height);
+
+  svg
+    .append('defs')
+    .append('marker')
+    .attr('id', 'arrow')
+    .attr('viewBox', [0, 0, 10, 10])
+    .attr('refX', 1)
+    .attr('refY', 5)
+    .attr('markerWidth', 10)
+    .attr('markerHeight', 15)
+    .attr('orient', 'auto-start-reverse')
+    .append('path')
+    .attr('d', d3.line()([[0,0], [10,5], [0,10]]))
+    .attr('stroke', 'black');
 
   // add the links
   var path = svg
@@ -75,7 +93,8 @@ d3.json("../cache.json", function (d) {
     .data(links)
     .enter()
     .append("path")
-    .attr("class", (d) => "link");
+    .attr("class", (d) => "link")
+    .attr("marker-end", "url(#arrow)");
 
   // define the nodes
   var node = svg

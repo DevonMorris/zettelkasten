@@ -193,9 +193,7 @@ d3.json("../cache.json", function (d) {
   }
 
   function dblClick(event, d) {
-    console.log(d);
-    console.log(graph.adjacencyMap[d.ID]);
-    window.open("../" + d.ID + ".html");
+    window.open("../" + d.Slug + ".html");
   }
 
 })

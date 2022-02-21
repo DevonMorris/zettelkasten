@@ -7,7 +7,7 @@ dirtree:
 ![Me](./static/me.jpeg)
 
 ## ✨ I'm a Dreamer
-Software minimalism and craftmanship is my thing. I love linux, neovim and the
+Software minimalism and craftsmanship is my thing. I love linux, neovim and the
 open-source movement. I strive for relentless improvement and efficiency in my
 work and personal life. My goal is to create simple, generic, and
 highly-flexible systems to solve the biggest problems in autonomy and robotics.

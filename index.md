@@ -33,8 +33,7 @@ topics.
 
 ## 🦾 I'm an Engineer
 You can find software that I make over at
-[Github](https://github.com/DevonMorris).  Currently, I work for [Torc
-Robotics](https://torc.ai/) as a perception engineer. Reach out on
+[Github](https://github.com/DevonMorris). Reach out on
 [LinkedIn](https://www.linkedin.com/in/devonmorris1992/) if you want to connect
 professionally and talk work. I'll keep this site free of most work related
 topics.
